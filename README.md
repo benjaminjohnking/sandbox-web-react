@@ -1,6 +1,6 @@
-# demo-web-react
+# sandbox-web-react
 
-React project for demonstration and experimentation purposes.
+React web sandbox
 
 ## Roadmap
 
