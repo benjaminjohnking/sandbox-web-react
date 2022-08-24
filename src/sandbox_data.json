@@ -1,0 +1,105 @@
+{
+  "profile": {
+    "image": "https://www.github.com/benjaminjohnking.png",
+    "statement": "Software development professional with over 15 years of IT industry experience in academia, e-commerce, enterprise and healthcare spaces. Specialized in full stack development for web and mobile applications. Seasoned leader of development teams using Scrum and Kanban Agile methodologies. Skills include but not limited to Android SDK, Angular, AWS, HTML5/CSS3, iOS SDK, Java EE, JavaScript, Node.js, PhoneGap, React Native, RESTful APIs, and SQL.",
+    "links": [
+      {
+        "title": "View my profile on LinkedIn",
+        "url": "https://www.linkedin.com/in/benjaminjking"
+      },
+      {
+        "title": "View my activity on GitHub",
+        "url": "https://github.com/benjaminjohnking"
+      }
+    ]
+  },
+  "experience": [
+    {
+      "company": "Arcadia Healthcare Solutions",
+      "roles": [
+        {
+          "title": "Software Engineer / Scrum Master",
+          "startDate": "2022-03-01"
+        },
+        {
+          "title": "Engineering Manager / Tech Lead",
+          "startDate": "2021-06-01",
+          "endDate": "2022-03-01"
+        },
+        {
+          "title": "Software Engineer",
+          "startDate": "2020-09-01",
+          "endDate": "2021-06-01"
+        }
+      ]
+    },
+    {
+      "company": "Matco Tools",
+      "roles": [
+        {
+          "title": "Manager, Web Development",
+          "startDate": "2016-04-01",
+          "endDate": "2020-09-01"
+        },
+        {
+          "title": "Senior Java Web Developer",
+          "startDate": "2014-11-01",
+          "endDate": "2016-04-01"
+        },
+        {
+          "title": "Java Web Developer II",
+          "startDate": "2012-08-01",
+          "endDate": "2014-11-01"
+        }
+      ]
+    },
+    {
+      "company": "Notify Technology",
+      "roles": [
+        {
+          "title": "Software Development Manager",
+          "startDate": "2011-08-01",
+          "endDate": "2012-08-01"
+        },
+        {
+          "title": "Software Engineer",
+          "startDate": "2008-01-01",
+          "endDate": "2011-08-01"
+        }
+      ]
+    },
+    {
+      "company": "Youngstown State University",
+      "roles": [
+        {
+          "title": "Research Assistant",
+          "startDate": "2010-08-01",
+          "endDate": "2011-08-01"
+        },
+        {
+          "title": "Student Software Specialist",
+          "startDate": "2005-01-01",
+          "endDate": "2008-04-01"
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master",
+      "program": "Computing and Information Systems",
+      "school": "Youngstown State University",
+      "startDate": "2009-08-01",
+      "endDate": "2013-05-01",
+      "gpa": "4.00/4.00"
+    },
+    {
+      "degree": "Bachelor of Science",
+      "program": "Computer Science",
+      "school": "Youngstown State University",
+      "startDate": "2004-08-01",
+      "endDate": "2008-05-01",
+      "gpa": "3.59/4.00"
+    }
+  ]
+}

@@ -4,7 +4,6 @@ import {
   Route,
   Link
 } from "react-router-dom";
-import './App.css';
 import Education from "./Education";
 import Experience from "./Experience";
 import Home from "./Home";
@@ -12,7 +11,7 @@ import Home from "./Home";
 function App() {
   return (
     <Router>
-      <div>
+      <div class="header">
         <nav>
           <ul>
             <li>
