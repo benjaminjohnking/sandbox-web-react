@@ -1,11 +1,6 @@
 # sandbox-web-react
 
-React web sandbox
+React web sandbox for personal experimentation
 
-## Roadmap
-
-- Material-UI styling
-- Component classes for enriching pages
-- Service classes for providing data
-- RESTful API client for retrieving data
-- Unit and integration tests
+* To run, execute command `npm start`
+* To build, execute command `npm run build`
